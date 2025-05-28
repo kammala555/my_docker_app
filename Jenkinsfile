@@ -160,9 +160,9 @@ pipeline {
  
             //sh "docker logout"
  
-            echo "Cleaning up workspace..."
+           // echo "Cleaning up workspace..."
  
-            cleanWs() // Cleans the Jenkins workspace
+            //cleanWs() // Cleans the Jenkins workspace
  
         }
  
