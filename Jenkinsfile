@@ -158,7 +158,7 @@ pipeline {
  
             // For simplicity, we'll just attempt it.
  
-            sh "docker logout"
+            //sh "docker logout"
  
             echo "Cleaning up workspace..."
  
